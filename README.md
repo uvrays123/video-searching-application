@@ -29,7 +29,7 @@
   <p align="center">
     This is my personal take on Youtube where I get rid of the comment section and search for youtube videos on my personal made search bar. 
     <br />
-    <a href="https://uvrays123.github.io/video-searching-application/">View Demo</a>
+    <a href="https://uvrays123.github.io/video-searching-application/">View Demo (Has been bugging: working to fix this)</a>
     <br />
   </p>
 </p>
