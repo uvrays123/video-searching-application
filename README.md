@@ -29,7 +29,7 @@
   <p align="center">
     This is my personal take on Youtube where I get rid of the comment section and search for youtube videos on my personal made search bar. 
     <br />
-    <a href="https://uvrays123.github.io/Tic-Tac-Toe-AI/">View Demo</a>
+    <a href="https://uvrays123.github.io/video-searching-application/">View Demo</a>
     <br />
   </p>
 </p>
@@ -82,24 +82,19 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/uvrays123/Twitter-Kafka
+   git clone https://github.com/uvrays123/video-searching-application
    ```
-2. Replace the access Id's for the Twitter API with your personal keys
-
-3. Replace the keys for Elasticsearch with your personal Elasticsearch account keys
-
-4. Start Zookeeper on your local terminal
-
-5. Start Apache Kakfa on your local terminal 
-
-6. Run the TwitterProducer.java program 
+2. Install the NPM packages
+   ```
+   npm install --save
+   ```
 
 <!-- CONTACT -->
 ## Contact
 
 Chris Serrao - https://www.linkedin.com/in/chris-serrao-64360a199/ - cserrao@umass.edu
 
-Project Link: [https://github.com/uvrays123/Twitter-Kafka](https://github.com/uvrays123/Twitter-Kafka)
+Project Link: [https://github.com/uvrays123/video-searching-application](https://github.com/uvrays123/video-searching-application)
 
 
 
